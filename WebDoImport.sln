@@ -22,37 +22,7 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoelLevitz.OSDS.Common", "..\Shared\NoelLevitz.OSDS.Common\NoelLevitz.OSDS.Common.csproj", "{71CEECA5-8D31-4F98-86EA-94F3B3BA73AA}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 10
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://co-dev02:8080/tfs/defaultcollection
-		SccProjectUniqueName0 = ..\\..\\CommonLibrary\\CommonLibrarySolution\\NoelLevitz.Import\\NoelLevitz.Import.csproj
-		SccProjectName0 = ../../CommonLibrary/CommonLibrarySolution/NoelLevitz.Import
-		SccLocalPath0 = ..\\..\\CommonLibrary\\CommonLibrarySolution\\NoelLevitz.Import
-		SccProjectUniqueName1 = ..\\..\\CommonLibrary\\CommonLibrarySolution\\NoelLevitz.Export\\NoelLevitz.Export.csproj
-		SccProjectName1 = ../../CommonLibrary/CommonLibrarySolution/NoelLevitz.Export
-		SccLocalPath1 = ..\\..\\CommonLibrary\\CommonLibrarySolution\\NoelLevitz.Export
-		SccProjectUniqueName2 = ..\\ForecastPlus\\NoelLevitz.ForecastPlus.Data\\NoelLevitz.ForecastPlus.Data.csproj
-		SccProjectName2 = ../ForecastPlus/NoelLevitz.ForecastPlus.Data
-		SccLocalPath2 = ..\\ForecastPlus\\NoelLevitz.ForecastPlus.Data
-		SccProjectUniqueName3 = ..\\ForecastPlus\\NoelLevitz.ForecastPlus.Shared\\NoelLevitz.ForecastPlus.Shared.csproj
-		SccProjectName3 = ../ForecastPlus/NoelLevitz.ForecastPlus.Shared
-		SccLocalPath3 = ..\\ForecastPlus\\NoelLevitz.ForecastPlus.Shared
-		SccProjectUniqueName4 = ..\\..\\CommonLibrary\\CommonLibrarySolution\\NoelLevitz.Library\\NoelLevitz.Library.csproj
-		SccProjectName4 = ../../CommonLibrary/CommonLibrarySolution/NoelLevitz.Library
-		SccLocalPath4 = ..\\..\\CommonLibrary\\CommonLibrarySolution\\NoelLevitz.Library
-		SccProjectUniqueName5 = ..\\..\\CommonLibrary\\CommonLibrarySolution\\NoelLevitz.Library.EF\\NoelLevitz.Library.EF.csproj
-		SccProjectName5 = ../../CommonLibrary/CommonLibrarySolution/NoelLevitz.Library.EF
-		SccLocalPath5 = ..\\..\\CommonLibrary\\CommonLibrarySolution\\NoelLevitz.Library.EF
-		SccProjectUniqueName6 = ..\\..\\CommonLibrary\\CommonLibrarySolution\\NoelLevitz.Logging\\NoelLevitz.Logging.csproj
-		SccProjectName6 = ../../CommonLibrary/CommonLibrarySolution/NoelLevitz.Logging
-		SccLocalPath6 = ..\\..\\CommonLibrary\\CommonLibrarySolution\\NoelLevitz.Logging
-		SccProjectUniqueName7 = ..\\Shared\\NoelLevitz.OSDS.Common\\NoelLevitz.OSDS.Common.csproj
-		SccProjectName7 = ../Shared/NoelLevitz.OSDS.Common
-		SccLocalPath7 = ..\\Shared\\NoelLevitz.OSDS.Common
-		SccLocalPath8 = .
-		SccProjectUniqueName9 = WebDoImport.csproj
-		SccLocalPath9 = .
+	GlobalSection(TeamFoundationVersionControl) = 
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Authoring|Any CPU = Authoring|Any CPU
