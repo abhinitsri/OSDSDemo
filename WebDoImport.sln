@@ -3,24 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDoImport", "WebDoImport.csproj", "{AC14DD4D-41E6-4D7E-AC8C-49B570550C96}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoelLevitz.Import", "..\..\CommonLibrary\CommonLibrarySolution\NoelLevitz.Import\NoelLevitz.Import.csproj", "{1884160E-60AE-4993-AF52-F7DF331BB320}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoelLevitz.Export", "..\..\CommonLibrary\CommonLibrarySolution\NoelLevitz.Export\NoelLevitz.Export.csproj", "{7DB435FD-56FD-4039-B721-D8665147EF97}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoelLevitz.ForecastPlus.Data", "..\ForecastPlus\NoelLevitz.ForecastPlus.Data\NoelLevitz.ForecastPlus.Data.csproj", "{91EB1D9B-01B9-473E-923D-BBE131501F3E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoelLevitz.ForecastPlus.Shared", "..\ForecastPlus\NoelLevitz.ForecastPlus.Shared\NoelLevitz.ForecastPlus.Shared.csproj", "{E016932E-D6AA-4D9B-B096-C52043E86721}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoelLevitz.Library", "..\..\CommonLibrary\CommonLibrarySolution\NoelLevitz.Library\NoelLevitz.Library.csproj", "{D12E29EC-7C3C-467F-851E-3461DD4B0241}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoelLevitz.Library.EF", "..\..\CommonLibrary\CommonLibrarySolution\NoelLevitz.Library.EF\NoelLevitz.Library.EF.csproj", "{FF9BB915-FD6F-4198-9470-C499BFED343E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoelLevitz.Logging", "..\..\CommonLibrary\CommonLibrarySolution\NoelLevitz.Logging\NoelLevitz.Logging.csproj", "{5B22B256-69C1-4CE5-AD55-00E692FD98D6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoelLevitz.OSDS.Common", "..\Shared\NoelLevitz.OSDS.Common\NoelLevitz.OSDS.Common.csproj", "{71CEECA5-8D31-4F98-86EA-94F3B3BA73AA}"
-EndProject
 Global
 	GlobalSection(TeamFoundationVersionControl) = 
 	EndGlobalSection
